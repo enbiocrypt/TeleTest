@@ -1,0 +1,7 @@
+from sample_config import Config
+
+class Development(Config):
+  APP_ID = 1716832
+  API_HASH = "824debf2174102efdff18d7fc7312bcd"
+  TG_BOT_TOKEN = "1160076176:AAEkIviWIdpqJMIhMTalNtVVDU58F5WYzXo"
+  AUTH_USERS = [7351948,466337795,1264945270,604378231]
